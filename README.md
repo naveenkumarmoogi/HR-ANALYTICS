@@ -102,8 +102,8 @@ This project felt closer to a real HR reporting workflow than a practice sheet.
 
 ## Files Included
 
-* `HR_ANALYTICS_SHEET.xlsx`
-* `HR_ANALYTICS_DASHBOARD.pdf`
+* ![Microsoft Excel]`HR_ANALYTICS_SHEET.xlsx`
+* ![DASHBOARD]`HR_ANALYTICS_DASHBOARD.pdf`
 
 ## Preview
 
