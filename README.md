@@ -102,13 +102,12 @@ This project felt closer to a real HR reporting workflow than a practice sheet.
 
 ## Files Included
 
-* ![Microsoft Excel]`HR_ANALYTICS_SHEET.xlsx`
-* ![DASHBOARD]`HR_ANALYTICS_DASHBOARD.pdf`
+* ![GOOGLE SHEETS](HR_ANALYTICS_SHEET.xlsx)
+* ![DASHBOARD](HR_ANALYTICS_DASHBOARD.pdf)
 
 ## Preview
 
 ![HR Dashboard](HR_ANALYTICS_DASHBOARD.pdf)
-
 ---
 
 Day 6 completed.
